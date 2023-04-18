@@ -2,3 +2,6 @@ Integrantes:
 Benjamin Peña
 Martin Muñoz
 Andres Tapia
+
+Profesor:
+Nicolas Contador
