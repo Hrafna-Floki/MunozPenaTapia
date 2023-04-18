@@ -5,3 +5,6 @@ Andres Tapia
 
 Profesor:
 Nicolas Contador
+
+Dios:
+Linus Torvalds
